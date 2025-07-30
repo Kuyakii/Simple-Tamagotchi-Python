@@ -84,7 +84,7 @@ python main.py
 ## Screenshot
 <img width="1602" height="837" alt="image" src="https://github.com/user-attachments/assets/713ccc43-1024-413b-a3c6-83eb9d3a52a6" />
 <img width="1599" height="827" alt="image" src="https://github.com/user-attachments/assets/142d08d5-bd4e-4c2c-878b-42c38ff9e70b" />
-![Uploading image.png…]()
+<img width="1596" height="797" alt="image" src="https://github.com/user-attachments/assets/39f0f3b9-b11b-4e6f-a33d-26e883bbf98d" />
 
 ---
 
